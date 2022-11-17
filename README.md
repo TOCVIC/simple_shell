@@ -1,1 +1,1 @@
-# simple_shell
+Alx simple-shell project of my group
